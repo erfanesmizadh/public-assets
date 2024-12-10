@@ -53,6 +53,16 @@
           "videoLink": "https://example.com/v2rayng-video"
         },
         {
+          "name": "hiddify",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/erfanesmizadh/public-assets/refs/heads/main/icons/hiddify-next.png",
+          "description": "A rule-based proxy utility client for Android.",
+          "faDescription": "hiddify یک ابزار پروکسی قانون‌محور برای اندروید است.",
+          "configLink": "https://example.com/hiddify-config",
+          "downloadLink": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Android-arm64.apk",
+          "videoLink": "https://example.com/hiddify-next-video"
+        },
+        {
           "name": "V2box",
           "price": "0",
           "logo": "https://raw.githubusercontent.com/erfanesmizadh/public-assets/refs/heads/main/icons/v2box.png",
