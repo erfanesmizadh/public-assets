@@ -22,7 +22,7 @@
           "description": "Streisand sets up a new server running a wide variety of anti-censorship software.",
           "faDescription": "استرایزند یک سرور جدید با نرم‌افزارهای متنوع ضد سانسور راه‌اندازی می‌کند.",
           "configLink": "streisand://import/{url}",
-          "downloadLink": "https://apps.apple.com/us/app/streisand/id6450534064",
+          "downloadLink": "https://apps.apple.com/us/app/sing-box-vt/id6673731168?platform=iphone",
           "videoLink": "https://example.com/streisand-video"
         },
         {
@@ -69,7 +69,7 @@
           "description": "Streisand sets up a new server running a wide variety of anti-censorship software.",
           "faDescription": "استرایزند یک سرور جدید با نرم‌افزارهای متنوع ضد سانسور راه‌اندازی می‌کند.",
           "configLink": "streisand://import/{url}",
-          "downloadLink": "https://apps.apple.com/us/app/streisand/id6450534064",
+          "downloadLink": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/SFA-1.10.1-arm64-v8a.apk",
           "videoLink": "https://example.com/streisand-video"
         },
         {
@@ -115,7 +115,7 @@
           "description": "Streisand sets up a new server running a wide variety of anti-censorship software.",
           "faDescription": "استرایزند یک سرور جدید با نرم‌افزارهای متنوع ضد سانسور راه‌اندازی می‌کند.",
           "configLink": "streisand://import/{url}",
-          "downloadLink": "https://apps.apple.com/us/app/streisand/id6450534064",
+          "downloadLink": "https://github.com/SagerNet/sing-box/releases/download/v1.10.1/sing-box-1.10.1-windows-amd64.zip",
           "videoLink": "https://example.com/streisand-video"
         },
         {
