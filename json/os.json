@@ -144,7 +144,7 @@
           "videoLink": "https://example.com/nekoray-video"
         },
         {
-          "name": "SingBox",
+          "name": "Sing Box",
           "price": "0",
           "logo": "https://raw.githubusercontent.com/erfanesmizadh/public-assets/refs/heads/main/icons/singbox.png",
           "description": "A client that provides a platform for routing traffic securely.",
