@@ -67,7 +67,7 @@
           "price": "0",
           "logo": "https://raw.githubusercontent.com/erfanesmizadh/public-assets/refs/heads/main/icons/singbox.png",
           "description": "Streisand sets up a new server running a wide variety of anti-censorship software.",
-          "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
+          "faDescription": "#⃣اگه به دنبال یک برنامه میگردی که به صورت خودکار بروز رسانی🔄 اشتراک بزنه بهترین گزینه برنامه Sing Box میباشد.",
           "configLink": "sing-box://import-remote-profile?url={url}#Sub1",
           "downloadLink": "https://github.com/SagerNet/sing-box/releases/download/v1.10.5/SFA-1.10.5-universal.apk",
           "videoLink": "https://example.com/streisand-video"
@@ -113,7 +113,7 @@
           "price": "0",
           "logo": "https://raw.githubusercontent.com/erfanesmizadh/public-assets/refs/heads/main/icons/singbox.png",
           "description": "Streisand sets up a new server running a wide variety of anti-censorship software.",
-          "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
+          "faDescription": "#⃣اگه به دنبال یک برنامه میگردی که به صورت خودکار بروز رسانی🔄 اشتراک بزنه بهترین گزینه برنامه Sing Box میباشد.",
           "configLink": "sing-box://import-remote-profile?url={url}#Sub1",
           "downloadLink": "https://github.com/SagerNet/sing-box/releases/download/v1.10.5/sing-box-1.10.5-windows-amd64.zip",
           "videoLink": "https://example.com/streisand-video"
@@ -148,7 +148,7 @@
           "price": "0",
           "logo": "https://raw.githubusercontent.com/erfanesmizadh/public-assets/refs/heads/main/icons/singbox.png",
           "description": "A client that provides a platform for routing traffic securely.",
-          "faDescription": "Sing-box یک کلاینت برای مسیریابی امن ترافیک فراهم می‌کند.",
+          "faDescription": "#⃣اگه به دنبال یک برنامه میگردی که به صورت خودکار بروز رسانی🔄 اشتراک بزنه بهترین گزینه برنامه Sing Box میباشد.",
           "configLink": "sing-box://import-remote-profile?url={url}#Sub1",
           "downloadLink": "https://github.com/SagerNet/sing-box/releases/latest",
           "videoLink": "https://example.com/sing-box-video"
